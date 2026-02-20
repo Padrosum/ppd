@@ -8,7 +8,7 @@
 
 ## 🌟 Neden ppd?
 
-Kendi **mikro Linux dağıtımım** (BusyBox tabanlı, minimalist bir OS projesi) üzerinde çalışırken, sistem araçlarımı ve kendi yazdığım binary'leri hızlıca kuracak hafif bir çözüme ihtiyaç duydum. Mevcut paket yöneticileri (pacman, apt vb.) çok hantal kalıyordu. 
+Kendi **mikro Linux dağıtımım** (BusyBox tabanlı, minimalist bir OS projesi) üzerinde çalışırken, sistem araçlarımı ve kendi yazdığım binary'leri hızlıca kuracak hafif bir çözüme ihtiyaç duydum.
 
 **ppd**, C dili ile doğrudan sistem çağrılarını kullanarak:
 * 📥 GitHub üzerinden doğrudan binary çeker.
