@@ -34,7 +34,7 @@ Sisteminizde `gcc`, `make` ve `curl` yüklü olmalıdır.
 
 ```bash
 # Repo'yu klonlayın
-git clone [https://github.com/padrosum/ppd.git](https://github.com/padrosum/ppd.git)
+git clone https://github.com/Padrosum/ppd.git
 cd ppd
 
 # Derleyin
